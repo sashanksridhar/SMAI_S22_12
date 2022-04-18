@@ -1,9 +1,9 @@
 # SMAI Project Dealer's Choice Team 12
 
-Members:
-2019101047 - Sanchit Arora
-2021201048 - Jatin Gupta
-2021701038 - Sashank S
+Members: <br>
+2019101047 - Sanchit Arora <br>
+2021201048 - Jatin Gupta <br>
+2021701038 - Sashank S <br>
 
-Project Mentor
+Project Mentor <br>
 Ritvik Garg
