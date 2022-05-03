@@ -6,4 +6,8 @@ Members: <br>
 2021701038 - Sashank S <br>
 
 Project Mentor <br>
-Ritvik Garg
+Ritvik Garg <br>
+
+Topic : Generating Sequences With Recurrent Neural Networks <br>
+
+Base Paper : A. Graves. Generating sequences with recurrent neural networks. arXiv:1308.0850, 2013.
